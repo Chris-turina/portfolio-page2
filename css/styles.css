@@ -1,0 +1,73 @@
+img{
+  float: none;
+  margin-bottom: 15px;
+  border: 10px solid orange;
+}
+h1{
+  text-align: center;
+}
+h3{
+  text-align: center;
+}
+h4{
+  text-align: center;
+}
+
+body{
+  font-size: 16px;
+  font-weight: bolder;
+  text-align: center;
+  background-image: url(http://www.csnnw.com/sites/csnnw/files/2017/02/01/oregonstatebeavers-reserstadium.jpg);
+  background-position: left;
+  background-size: cover;
+  background-blend-mode: multiply;
+  font-family: monospace;
+}
+
+.aleft{
+  text-align: left;
+}
+
+.aleft2{
+  text-align: left;
+  color: black;
+  margin: 10;
+  border: 2px solid orange;
+  padding: 4px;
+  background-color: white;
+}
+
+
+.box{
+  text-shadow: 2px solid white;
+  padding: 4px;
+  color: blue;
+  margin: 10;
+  text-decoration: underline;
+}
+
+.title1{
+  color: white;
+  margin: 10;
+  border: 2px solid orange;
+  padding: 4px;
+  background-color: black;
+}
+
+.para1{
+  color: black;
+  margin: 10;
+  border: 2px solid orange;
+  padding: 4px;
+  background-color: white;
+}
+
+.spec{
+  font-size: 13px;
+  font-style: italic;
+  font-weight: normal;
+}
+
+.under {
+  text-decoration: underline;
+}
